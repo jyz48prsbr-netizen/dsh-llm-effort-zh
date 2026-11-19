@@ -1,0 +1,3 @@
+- insert:
+    - id: llm-effort-zh
+      name: 'dsh-llm-effort-zh'

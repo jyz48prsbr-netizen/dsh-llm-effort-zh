@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reasoning effort names in Chinese",
+    "description": "Shows the model selector's reasoning-effort levels in Chinese (Off / Minimal / Low / Medium / High / Very high / Max) and renders the provider-default row as \"Default\" in the Chinese interface. Display names only: the effort id and the reasoning_effort value sent to the provider are unchanged. The bundle lives in the profile, so it keeps working after the application is upgraded."
+  }
+}
