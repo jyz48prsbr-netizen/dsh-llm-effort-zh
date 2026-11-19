@@ -6,7 +6,7 @@
   "keywords": ["dsh", "dsh-plugin", "locale", "zh", "reasoning-effort"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jyz48prsbr/dsh-llm-effort-zh.git"
+    "url": "git+https://github.com/jyz48prsbr-netizen/dsh-llm-effort-zh.git"
   },
   "description": "把模型选择器里的推理等级名称显示为中文（关闭／极简／低／中／高／极高／最大），并在中文界面把「Provider default」一行显示为「默认」。只改显示名称，不改发给模型的参数值：推理等级 id 与实际请求中的 reasoning_effort 完全保持原样。插件装在 profile 中，升级应用后仍然有效。",
   "exports": {
